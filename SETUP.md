@@ -1,5 +1,8 @@
 # Cara pakai portfolio
 
+> **Pembaruan UTS 2026:** Baca `PANDUAN_UTS_2026.md` lebih dulu. Paket ZIP asli ternyata belum berisi `assets/` lama (foto profil, proyek, Moments, dan favicon). Versi ini hanya menambahkan foto drama dalam `assets/drama/`. Tambahkan aset lama sebelum memublikasikan website coding ini.
+
+
 Website ini dibuat dari blueprint portfolio Ahmad Fahril. HTML, CSS, JS, dan aset gambar disusun dalam satu folder.
 
 ## Struktur file
